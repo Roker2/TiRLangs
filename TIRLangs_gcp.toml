@@ -1,0 +1,16 @@
+# TiR Langs by Roker2
+# It is created for people, which want to play to 1.3 Nestle edition, but it doesn't support needed language
+
+# choose language of your mechanic
+[audio]
+lang = "ENGLISH"
+
+# choose language files of in-game texts
+[text]
+tlate = "language/tlate_en.dat"
+tman = "language/tman_en.dat"
+
+# if you use non-Latin language, you need to replace original font to font from release for your contry (for example Russian)
+[font]
+fontdata = "fonts/fontdata.dat"
+fontbase = "fonts/fontbase.dat"
